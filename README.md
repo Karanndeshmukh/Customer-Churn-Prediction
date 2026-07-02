@@ -30,9 +30,7 @@ This project predicts customer churn in a telecom company using machine learning
 - Random Forest
 - KNN
 - SVM
-- Gradient Boosting
 - XGBoost
-- Artificial Neural Network
 
 ## Evaluation Metrics
 - Accuracy
